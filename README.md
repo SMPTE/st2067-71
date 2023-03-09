@@ -12,7 +12,7 @@ Please report issues via the repo [Issue Tracker](https://github.com/SMPTE/st206
 
 ## Public Committee Draft (PCD) Notice
 
-The following elements are made available for a public review period ending no earlier than {YYYY-MM-DD}, and no later than {YYYY-MM-DD}:
+The following elements are made available for a public review period ending no earlier than 2023-09-15, and no later than 2024-03-01:
 
 * [{prose element}]({link to prose element})
 * [{element #1}]({link to element #1})
