@@ -22,4 +22,6 @@ The following elements are made available for a public review period ending no e
 # SMPTE ST 2067-71
 Public CD of SMPTE ST 2067-71 - Interoperable Master Format – Mapping VC-6 into IMF
 
-{PCD announcement}
+Public Committee Draft was approved March 9, 2022 and posted to GitHub on [DATE]
+
+This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
