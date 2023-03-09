@@ -1,4 +1,4 @@
-# SMPTE ST 2067-71
+# Public CD of SMPTE ST 2067-71
 
 ## General
 
