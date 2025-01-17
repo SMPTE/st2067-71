@@ -12,13 +12,7 @@ Please report issues via the repo [Issue Tracker](https://github.com/SMPTE/st206
 
 ## Details
 
-Public CD of SMPTE ST 2067-71 - Interoperable Master Format – Mapping VC-6 into IMF
-
-Public Committee Draft was approved March 9, 2023 and posted to GitHub on March 11, 2023.
-
-This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
-
-SMPTE is pleased to announce the availability of SMPTE ST 2067-71 Mapping VC-6 into IMF as a public Committee Draft document available on the SMPTE website. This document joins the public Committee Draft of SMPTE ST 2117-10 Mapping VC-6 into the MXF Generic Container and enables the development of MXF and IMF workflows utilizing VC-6 video compression.
+This standard, along with ST 2117-10, enable the development of IMF and MXF workflows, respectively, utilizing VC-6 video compression.
 
 SMPTE ST 2117-1 VC-6 Multiplanar Picture Format - Part 1 Elementary Bitstream defines an innovative, mezzanine codec that provides multi-resolution lossless and lossy encoding modes and has been designed for efficient implementation on CPUs and GPUs. Its hierarchical approach allows easy access to lower resolution proxies and regions of interest which can significantly reduce storage costs and simplify the implementation of de-centralized, cloud-based workflows particularly when coupled with the versioning functionality of the Interoperable Mastering Format, IMF.
 
