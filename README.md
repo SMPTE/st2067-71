@@ -10,12 +10,6 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 Please report issues via the repo [Issue Tracker](https://github.com/SMPTE/st2067-71/issues) or at [35pm-chair@smpte.org](mailto:35pm-chair@smpte.org).
 
-## Public Committee Draft (PCD) Notice
-
-The following elements are made available for a public review period ending no earlier than 2023-09-15, and no later than 2024-03-01:
-
-* [35PM-PCD-ST-2067-71-Mapping VC-6 into IMF.pdf](https://github.com/SMPTE/st2067-71/blob/main/35PM-PCD-ST-2067-71-Mapping%20VC-6%20into%20IMF.pdf)
-
 ## Details
 
 Public CD of SMPTE ST 2067-71 - Interoperable Master Format – Mapping VC-6 into IMF
