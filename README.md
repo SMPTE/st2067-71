@@ -1,4 +1,4 @@
-# Public CD of SMPTE ST 2067-71
+# SMPTE ST 2067-71 - _Dynamic Metadata for Color Volume Transform (DMCVT) Plug-in_
 
 ## General
 
